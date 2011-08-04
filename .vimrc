@@ -294,7 +294,7 @@
 		set tags=./tags;/,$HOME/vimtags
         map <C-\> :tab split<CR>:exec("tag ".expand("<cword>"))<CR> " C-\ - Open the definition in a new tab
         map <A-]> :vsp <CR>:exec("tag ".expand("<cword>"))<CR>      " A-] - Open the definition in a vertical split
-	" }
+    " }
 
 	" EasyTags {
        " Disabling for now. It doesn't work well on large tag files 

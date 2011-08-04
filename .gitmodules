@@ -64,9 +64,3 @@
 [submodule ".vim/bundle/pydoc.vim"]
 	path = .vim/bundle/pydoc.vim
 	url = https://github.com/fs111/pydoc.vim.git
-[submodule ".vim/bundle/tabbar"]
-	path = .vim/bundle/tabbar
-	url = https://github.com/vim-scripts/TabBar.git
-[submodule ".vim/bundle/tabs"]
-	path = .vim/bundle/tabs
-	url = https://github.com/vim-scripts/tabs.vim.git
